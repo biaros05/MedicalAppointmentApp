@@ -1,4 +1,4 @@
-``` 
+
 # Medical Appointment App
 
 ## Web URL to website:
@@ -153,7 +153,3 @@ This API allows for managing appointments, including creating, retrieving, updat
 ### Updates and Modifications
 - Appointments can be modified only by users with appropriate permissions, and certain fields may be locked based on the user's role.
 - Deleting an appointment requires specific roles and is permanently removed from the database upon action.
-
-
-
-```
